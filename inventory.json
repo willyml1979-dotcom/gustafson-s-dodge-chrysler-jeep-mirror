@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-09-26T08:44:01",
+  "generated_at": "2026-10-08T14:37:37",
   "vehicle_count": 167,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "3C6UR5JL0FG614393",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SLT",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/10c0425b0ec5.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2015-RAM-2500-id14361113.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2015-RAM-2500-id14361113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 246533,
       "year": 2015,
       "make": "RAM",
-      "model": "2500 SLT",
-      "condition": "used"
+      "model": "2500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 2500 ",
@@ -36,7 +39,9 @@
       "year": 2015,
       "make": "RAM",
       "model": "2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2015 RAM 2500 ",
@@ -52,13 +57,16 @@
       "year": 2015,
       "make": "RAM",
       "model": "2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sorento SX Turbo AWD | Sunroof | Cooling Seats | NAV |in Williams Lake near Quesnel",
       "vin": "5XYPKDA11GG160089",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SX Turbo",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4c24da1129a5.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2016-Kia-Sorento-id14118136.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2016-Kia-Sorento-id14118136.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,8 +76,10 @@
       "odometer_km": 136522,
       "year": 2016,
       "make": "Kia",
-      "model": "Sorento SX Turbo AWD",
-      "condition": "used"
+      "model": "Sorento",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sorento ",
@@ -85,7 +95,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Sorento ",
@@ -101,13 +113,16 @@
       "year": 2016,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Patriot North Edition 4X4 | Remote Start | Heated Seats | Sirius Radio |in Williams Lake near Quesnel",
       "vin": "1C4NJRAB7HD125623",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "North Edition",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/79d66b371603.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2017-Jeep-Patriot-id13968944.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2017-Jeep-Patriot-id13968944.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -117,8 +132,10 @@
       "odometer_km": 125901,
       "year": 2017,
       "make": "Jeep",
-      "model": "Patriot North Edition 4X4",
-      "condition": "used"
+      "model": "Patriot",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Patriot ",
@@ -134,7 +151,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Patriot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Patriot ",
@@ -150,13 +169,16 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Patriot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler Rubicon 4x4in Williams Lake near Quesnel",
       "vin": "1C4HJXFG5JW131226",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Rubicon 4x4in Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/3fdc579f6c3e.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2018-Jeep-Wrangler-id11747294.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2018-Jeep-Wrangler-id11747294.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -166,8 +188,10 @@
       "odometer_km": 122538,
       "year": 2018,
       "make": "Jeep",
-      "model": "Wrangler Rubicon 4x4in Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -183,7 +207,9 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2018 Jeep Wrangler ",
@@ -199,13 +225,16 @@
       "year": 2018,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Challenger SXT Plus | AWD | Cooling Seats | Remote Start | Heated Seats+Wheel |in Williams Lake near Quesnel",
       "vin": "2C3CDZGG1KH592181",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "SXT Plus",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/1763a9dfce44.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2019-Dodge-Challenger-id14361111.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2019-Dodge-Challenger-id14361111.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -215,8 +244,10 @@
       "odometer_km": 136522,
       "year": 2019,
       "make": "Dodge",
-      "model": "Challenger SXT Plus",
-      "condition": "used"
+      "model": "Challenger",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Challenger ",
@@ -232,7 +263,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango Citadel Platinum AWDin Williams Lake near Quesnel",
@@ -249,7 +282,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Durango Citadel Platinum AWDin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango ",
@@ -265,7 +300,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Challenger ",
@@ -281,7 +318,9 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Challenger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2019 Dodge Durango ",
@@ -297,13 +336,16 @@
       "year": 2019,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee High Altitude | Hemi V8 | Tow Pack | Full Load |in Williams Lake near Quesnel",
       "vin": "1C4RJFCT9MC711276",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "High Altitude",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/281a090460ec.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2021-Jeep-Grand_Cherokee-id14298845.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2021-Jeep-Grand_Cherokee-id14298845.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -313,8 +355,10 @@
       "odometer_km": 84788,
       "year": 2021,
       "make": "Jeep",
-      "model": "Grand Cherokee High Altitude",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -330,7 +374,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -346,12 +392,15 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic Express 4x4in Williams Lake near Quesnel",
       "vin": "3C6RR7KT2MG595911",
       "stock": "NUMBER",
+      "trim": "Express 4x4in Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/e76c095019a5.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2021-RAM-1500_Classic-id14142885.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2021-RAM-1500_Classic-id14142885.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -361,14 +410,17 @@
       "odometer_km": 232966,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 Classic Express 4x4in Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic Express | Remote Start | Heated Seats+Wheel | 4X4 |in Williams Lake near Quesnel",
       "vin": "3C6RR7KT5MG710162",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Express",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/8c962eefea5f.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2021-RAM-1500_Classic-id14294165.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2021-RAM-1500_Classic-id14294165.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,8 +428,10 @@
       "odometer_km": 112596,
       "year": 2021,
       "make": "RAM",
-      "model": "1500 Classic Express",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -393,13 +447,16 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 Laramie Mega Cab | Prep Pack | Sunroof | 360 Camera | Cooling Seats |in Williams Lake near Quesnel",
       "vin": "3C63R3ML7MG672283",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Laramie Mega",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/005104c169b1.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2021-RAM-3500-id13906926.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2021-RAM-3500-id13906926.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -409,8 +466,10 @@
       "odometer_km": 211855,
       "year": 2021,
       "make": "RAM",
-      "model": "3500 Laramie Mega Cab",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -426,7 +485,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 1500 Classic ",
@@ -442,7 +503,9 @@
       "year": 2021,
       "make": "RAM",
       "model": "1500 Classic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 RAM 3500 ",
@@ -458,13 +521,16 @@
       "year": 2021,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Comfortline 3.6L V6 | Heated Seats+Wheel | Remote Start | Tow Hitch | 7 Passenger |in Williams Lake near Quesnel",
       "vin": "1V2LR2CA7MC517107",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Comfortline V6",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/6eb46df5b641.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2021-Volkswagen-Atlas-id13767116.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2021-Volkswagen-Atlas-id13767116.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -474,8 +540,10 @@
       "odometer_km": 38922,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Atlas Comfortline 3.6L V6",
-      "condition": "used"
+      "model": "Atlas",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -491,7 +559,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas ",
@@ -507,13 +577,16 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 3500 HD AT4 | Power Boards | Sunroof | Prep Pack | Duramax Diesel |in Williams Lake near Quesnel",
       "vin": "1GT49VEY2NF214544",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "HD AT4",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/d7ee65dd3261.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD-id14367100.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD-id14367100.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -523,14 +596,17 @@
       "odometer_km": 94725,
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 3500 HD AT4",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 3500 HD ",
       "vin": "1GT49VEY2NF214544",
       "stock": 14367100,
       "color": "White",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5e961a361ee3.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -539,14 +615,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "used"
+      "model": "Sierra 3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 3500 HD ",
       "vin": "1GT49VEY2NF214544",
       "stock": 14367100,
       "color": "White",
+      "trim": "HD",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5e961a361ee3.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2022-GMC-Sierra_3500_HD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -555,14 +634,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "GMC",
-      "model": "Sierra 3500 HD",
-      "condition": "new"
+      "model": "Sierra 3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet GT Blacktop | AWD | Remote Start | Heated Seats+Wheel |in Williams Lake near Quesnel",
       "vin": "ZACNDFAN7P3A02668",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "GT Blacktop",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4c98e2ec6aa6.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2023-Dodge-Hornet-id12722169.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2023-Dodge-Hornet-id12722169.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -572,8 +654,10 @@
       "odometer_km": 69901,
       "year": 2023,
       "make": "Dodge",
-      "model": "Hornet GT Blacktop",
-      "condition": "used"
+      "model": "Hornet",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet ",
@@ -589,7 +673,9 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Dodge Hornet ",
@@ -605,13 +691,16 @@
       "year": 2023,
       "make": "Dodge",
       "model": "Hornet",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte EX | Heated Seats + Wheel | CarPlay| Wireless Charging | Warranty |in Williams Lake near Quesnel",
       "vin": "3KPF34AD3PE578315",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/e0f2f75c45cc.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2023-Kia-Forte-id13775625.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2023-Kia-Forte-id13775625.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -621,8 +710,10 @@
       "odometer_km": 65074,
       "year": 2023,
       "make": "Kia",
-      "model": "Forte EX",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -638,12 +729,15 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage X-Line | AWD | Remote Start | Heated Seats+Wheel | Leather |in Williams Lake near Quesnel",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "X-Line",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/408f1734e3e1.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2023-Kia-Sportage-id12660489.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2023-Kia-Sportage-id12660489.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -653,8 +747,10 @@
       "odometer_km": 103556,
       "year": 2023,
       "make": "Kia",
-      "model": "Sportage X-Line",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -670,7 +766,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte ",
@@ -686,7 +784,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage ",
@@ -702,13 +802,16 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 Laramie | AISIN HO | Auto-Level | Power Boards | Cooling Seats | Remote Start | WARRANTY |in Williams Lake near Quesnel",
       "vin": "3C63R3EL4PG580003",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laramie",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/ebe758d14d17.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2023-RAM-3500-id14111758.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2023-RAM-3500-id14111758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -718,8 +821,10 @@
       "odometer_km": 74690,
       "year": 2023,
       "make": "RAM",
-      "model": "3500 Laramie",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -735,7 +840,9 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2023 RAM 3500 ",
@@ -751,13 +858,16 @@
       "year": 2023,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler Saharain Williams Lake near Quesnel",
       "vin": "1C4PJXEG6RW266997",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Saharain Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fb401b8ecca9.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2024-Jeep-Wrangler-id10731703.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2024-Jeep-Wrangler-id10731703.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -766,8 +876,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler Saharain Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -783,13 +895,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Tradesman 4x4 Crew Cab 6'4\" Box | WARRANTY |in Williams Lake near Quesnel",
       "vin": "3C63R3CL2RG297444",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Tradesman 6'4\" Box",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/0fb956cad9be.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id13689158.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id13689158.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -799,14 +914,17 @@
       "odometer_km": 34822,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Tradesman 4x4 Crew Cab 6'4\" Box",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Limited Night Edition 8' Box | HO Aisin | 189L Tank | Prep Pack | Auto-Level | Fully Loaded |in Williams Lake near Quesnel",
       "vin": "3C63R3RL9RG295066",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Limited Night Edition",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c342280e6bf5.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id13963885.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id13963885.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -816,14 +934,17 @@
       "odometer_km": 23428,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Limited Night Edition 8' Box",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Big Horn | 8' Box | Remote Start | 189L Fuel Tank | 6 Passenger |in Williams Lake near Quesnel",
       "vin": "3C63R3HL6RG409901",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/533d872f1340.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id14381400.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id14381400.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -833,14 +954,17 @@
       "odometer_km": 42866,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Big Horn",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 Longhorn | 8' Box | AISIN HO | 189L Tank | Auto Level | Prep Pack | 360 Cam | Power Boardsin Williams Lake near Quesnel",
       "vin": "3C63R3KL9RG290119",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Longhorn",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/9f627fe9a178.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id14414746.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2024-RAM-3500-id14414746.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,8 +974,10 @@
       "odometer_km": 94866,
       "year": 2024,
       "make": "RAM",
-      "model": "3500 Longhorn",
-      "condition": "used"
+      "model": "3500",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -867,7 +993,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -883,7 +1011,9 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2024 RAM 3500 ",
@@ -899,13 +1029,16 @@
       "year": 2024,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage LX AWD | Heated Seats | Remote Start | CarPlay | Warranty |in Williams Lake near Quesnel",
       "vin": "KNDPUCDF5S7361754",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/e517deb6f9c9.html",
       "source_url": "https://www.gustafsonsdodge.com/used/2025-Kia-Sportage-id14244086.html",
       "dealer_url": "https://www.gustafsonsdodge.com/used/2025-Kia-Sportage-id14244086.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -915,8 +1048,10 @@
       "odometer_km": 47784,
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -932,7 +1067,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage ",
@@ -948,7 +1085,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Williams Lake near Quesnel",
@@ -962,7 +1101,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Williams Lake near Quesnel",
@@ -976,11 +1117,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Hybridin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c9e056c6ccde.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -989,8 +1133,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Pacifica",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Grand Caravanin Williams Lake near Quesnel",
@@ -1004,7 +1150,9 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacificain Williams Lake near Quesnel",
@@ -1018,11 +1166,14 @@
       "year": 2026,
       "make": "Chrysler",
       "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Chrysler Pacifica Hybridin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Hybridin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c9e056c6ccde.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Chrysler-Pacifica_Hybrid.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Chrysler-Pacifica_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1031,8 +1182,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Chrysler",
-      "model": "Pacifica Hybridin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Pacifica",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Chargerin Williams Lake near Quesnel",
@@ -1046,7 +1199,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Chargerin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durangoin Williams Lake near Quesnel",
@@ -1060,7 +1215,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durangoin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Chargerin Williams Lake near Quesnel",
@@ -1074,7 +1231,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Chargerin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Dodge Durangoin Williams Lake near Quesnel",
@@ -1088,7 +1247,9 @@
       "year": 2026,
       "make": "Dodge",
       "model": "Durangoin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1104,7 +1265,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1120,7 +1283,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiatorin Williams Lake near Quesnel",
@@ -1134,7 +1299,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1149,11 +1316,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/a70d7d389e78.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1162,8 +1332,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Williams Lake near Quesnel",
@@ -1177,11 +1349,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/52999fdfc23a.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1190,8 +1365,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Williams Lake near Quesnel",
@@ -1205,7 +1382,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1221,7 +1400,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1237,7 +1418,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1253,7 +1436,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Gladiatorin Williams Lake near Quesnel",
@@ -1267,7 +1452,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1282,11 +1469,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a70d7d389e78.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1295,8 +1485,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneerin Williams Lake near Quesnel",
@@ -1310,11 +1502,14 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/52999fdfc23a.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2026-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1323,8 +1518,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Reconin Williams Lake near Quesnel",
@@ -1338,7 +1535,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Reconin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1354,13 +1553,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB28TT222567",
       "stock": "NUMBER",
       "color": "'41",
+      "trim": "Laredoin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4aa7d6313792.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13400029.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13400029.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1369,14 +1571,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB29TT227423",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Laredoin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/639861c56542.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13485800.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13485800.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1385,13 +1590,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB2XTT256364",
       "stock": "NUMBER",
+      "trim": "Laredoin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6be1257bc5d6.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13589359.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13589359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1400,14 +1608,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
       "vin": "3C4PJMB22TT249795",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Limitedin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/143dfb189f71.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13712514.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13712514.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1416,13 +1627,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Limitedin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB28TT256363",
       "stock": "NUMBER",
+      "trim": "Laredoin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d416e4039418.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13712515.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id13712515.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1431,13 +1645,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Laredoin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
       "vin": "3C4PJMB24TT249796",
       "stock": "NUMBER",
+      "trim": "Limitedin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f08f264d87eb.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id14007580.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id14007580.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1446,13 +1663,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Limitedin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee Basein Williams Lake near Quesnel",
       "vin": "3C4PJMA28TT236826",
       "stock": "NUMBER",
+      "trim": "Basein Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/17a03e954b5f.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id14034128.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Cherokee-id14034128.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1461,8 +1681,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Cherokee Basein Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Cherokee ",
@@ -1478,13 +1700,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Sport 4x4 | Heated Seats |in Williams Lake near Quesnel",
       "vin": "3C4NJDANXTT156249",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/11b119e5eeb1.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id12806922.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id12806922.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1493,14 +1718,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Sport 4x4",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Williams Lake near Quesnel",
       "vin": "3C4NJDBN6TT212718",
       "stock": "NUMBER",
       "color": "Joose",
+      "trim": "Northin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4e63e83f1c63.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id13400030.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id13400030.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1509,14 +1737,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass Northin Williams Lake near Quesnel",
       "vin": "3C4NJDBN4TT212717",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Northin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/196d9b36d1e8.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id13468350.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Compass-id13468350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1525,8 +1756,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Compass Northin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Compass",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Compass ",
@@ -1542,13 +1775,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Altitude | Sunroof | Tow Package | TURBO | NAV | Power Gate | 0%in Williams Lake near Quesnel",
       "vin": "1C4RJHAR2TC236202",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Altitude",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/bad58ac09725.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13693361.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id13693361.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1557,13 +1793,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitude",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Limitedin Williams Lake near Quesnel",
       "vin": "1C4RJHAR8TC313624",
       "stock": "NUMBER",
+      "trim": "Limitedin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/548bd36c7c58.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14034127.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14034127.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1572,13 +1811,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Limitedin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Summitin Williams Lake near Quesnel",
       "vin": "1C4RJHAR1T8609877",
       "stock": "NUMBER",
+      "trim": "Summitin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6e272efa9e2a.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14034129.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14034129.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1587,13 +1829,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Summitin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee Laredo X | 3.6L V6 | Remote Start | Sunroof | Heated Seats+Wheel |in Williams Lake near Quesnel",
       "vin": "1C4RJHAG6TC317024",
       "stock": "NUMBER",
+      "trim": "Laredo X",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/9fe7f62c0bfc.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14084509.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Grand_Cherokee-id14084509.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1602,8 +1847,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Grand Cherokee Laredo X",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Grand Cherokee ",
@@ -1618,13 +1865,16 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler Willysin Williams Lake near Quesnel",
       "vin": "1C4PJXDG6TW167928",
       "stock": "NUMBER",
       "color": "MOJITO! CLEAR COAT",
+      "trim": "Willysin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c3174ac66b7f.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Wrangler-id12915958.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-Jeep-Wrangler-id12915958.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1633,8 +1883,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Jeep",
-      "model": "Wrangler Willysin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Wrangler",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Jeep Wrangler ",
@@ -1650,7 +1902,9 @@
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -1666,7 +1920,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1682,7 +1938,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -1698,7 +1956,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1714,13 +1974,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Big Horn 6'4\" Box - $79,995 AT 0% FINANCING for 84 monthsin Williams Lake near Quesnel",
       "vin": "1C6SRFMP7TN235731",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Big Horn 6'4\" Box",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/62bc29ac3808.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13079007.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13079007.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1729,14 +1992,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Big Horn 6'4\" Box - $79,995 AT 0% FINANCING for 84 monthsin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Expressin Williams Lake near Quesnel",
       "vin": "1C6RRFCG9TN388966",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Expressin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/09c2d2b94861.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13810927.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13810927.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1745,14 +2011,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Expressin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Express Off Road Package | 6'4\" Box | Hurricane | Remote Start | Rear Locker |in Williams Lake near Quesnel",
       "vin": "1C6SRFNP1TN370881",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Express Off Road Package",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/828d410e9518.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13973755.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id13973755.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1761,14 +2030,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Express Off Road Package",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 Rebelin Williams Lake near Quesnel",
       "vin": "1C6SRFLT7TN390245",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Rebelin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/bde3c269f76f.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id14354132.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-1500-id14354132.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1777,8 +2049,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "1500 Rebelin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 1500 ",
@@ -1794,13 +2068,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
       "vin": "3C63R3GL5TG186226",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Tradesmanin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f3fa1b5a52b0.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806898.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806898.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1809,14 +2086,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesmanin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
       "vin": "3C63R3GLXTG186223",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Tradesmanin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/7f60f2f45112.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806921.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806921.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1825,14 +2105,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesmanin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
       "vin": "3C63R3GL3TG186225",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Tradesmanin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ff6c3afde85d.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806925.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id12806925.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1841,14 +2124,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Tradesmanin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3DL7TG257768",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/2501fb7437a0.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13407311.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13407311.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1857,14 +2143,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HL6TG329148",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/da9cba10a504.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13758179.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13758179.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1873,14 +2162,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HL1TG329123",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6df91c260650.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13764743.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13764743.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2181,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HL3TG329124",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5d9a5372f314.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13810926.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13810926.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1905,14 +2200,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Horn | 6.4L Gas |in Williams Lake near Quesnel",
       "vin": "3C63R3HJXTG308107",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/0cc8e7a5bf35.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13850641.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13850641.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1921,14 +2219,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Horn",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Horn | 6.4L Gas |in Williams Lake near Quesnel",
       "vin": "3C63R3HJ8TG308106",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Horn",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1a40b804d858.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13850642.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13850642.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1937,14 +2238,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Horn",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HLXTG347135",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/43ebd2104dcb.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13973759.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13973759.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1953,14 +2257,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HL8TG350731",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d95f2cc6f00f.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13973760.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-3500-id13973760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1969,8 +2276,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 3500 ",
@@ -1986,7 +2295,9 @@
       "year": 2026,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 5500 ",
@@ -2002,13 +2313,16 @@
       "year": 2026,
       "make": "RAM",
       "model": "5500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 RAM 5500 Chassis ",
       "vin": "3C7WRNFL5TG307987",
       "stock": 13973758,
       "color": "Black",
+      "trim": "Chassis",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ac75748dfe6b.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-5500_Chassis.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2026-RAM-5500_Chassis.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2017,8 +2331,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "RAM",
-      "model": "5500 Chassis",
-      "condition": "new"
+      "model": "5500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Williams Lake near Quesnel",
@@ -2032,7 +2348,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2026 Ram 2500in Williams Lake near Quesnel",
@@ -2046,7 +2364,9 @@
       "year": 2026,
       "make": "Ram",
       "model": "2500in Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Williams Lake near Quesnel",
@@ -2060,7 +2380,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacificain Williams Lake near Quesnel",
@@ -2074,7 +2396,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Grand Caravanin Williams Lake near Quesnel",
@@ -2088,7 +2412,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Chrysler Pacificain Williams Lake near Quesnel",
@@ -2102,7 +2428,9 @@
       "year": 2027,
       "make": "Chrysler",
       "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Williams Lake near Quesnel",
@@ -2116,7 +2444,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Williams Lake near Quesnel",
@@ -2130,7 +2460,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Chargerin Williams Lake near Quesnel",
@@ -2144,7 +2476,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Chargerin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Dodge Durangoin Williams Lake near Quesnel",
@@ -2158,7 +2492,9 @@
       "year": 2027,
       "make": "Dodge",
       "model": "Durangoin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Williams Lake near Quesnel",
@@ -2172,7 +2508,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Williams Lake near Quesnel",
@@ -2186,7 +2524,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Williams Lake near Quesnel",
@@ -2200,7 +2540,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Williams Lake near Quesnel",
@@ -2214,11 +2556,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c3021ff8e147.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2227,8 +2572,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Williams Lake near Quesnel",
@@ -2242,11 +2589,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/228725f31cfc.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2255,8 +2605,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Williams Lake near Quesnel",
-      "condition": "used"
+      "model": "Grand Wagoneer",
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Williams Lake near Quesnel",
@@ -2270,7 +2622,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Cherokeein Williams Lake near Quesnel",
@@ -2284,7 +2638,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Cherokeein Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Compassin Williams Lake near Quesnel",
@@ -2298,7 +2654,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Compassin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Gladiatorin Williams Lake near Quesnel",
@@ -2312,7 +2670,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokeein Williams Lake near Quesnel",
@@ -2326,11 +2686,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Cherokeein Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c3021ff8e147.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Cherokee_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Cherokee_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2339,8 +2702,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Cherokee Lin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneerin Williams Lake near Quesnel",
@@ -2354,11 +2719,14 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
       "stock": "NUMBER",
+      "trim": "Lin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/228725f31cfc.html",
       "source_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Wagoneer_L.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/2027-Jeep-Grand_Wagoneer_L.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2367,8 +2735,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Jeep",
-      "model": "Grand Wagoneer Lin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "Grand Wagoneer",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Jeep Wranglerin Williams Lake near Quesnel",
@@ -2382,7 +2752,9 @@
       "year": 2027,
       "make": "Jeep",
       "model": "Wranglerin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -2398,7 +2770,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -2414,7 +2788,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -2430,7 +2806,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -2446,7 +2824,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 Express 0% Financingin Williams Lake near Quesnel",
@@ -2462,13 +2842,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500 Express 0% Financingin Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 Expressin Williams Lake near Quesnel",
       "vin": "3C6RRFGG3V4502242",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Expressin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/8edb8e85cec4.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-1500-id14286877.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-1500-id14286877.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2477,14 +2860,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "1500 Expressin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 Tradesmanin Williams Lake near Quesnel",
       "vin": "3C6RRFGG5V4502243",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Tradesmanin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/17bc86c2bfed.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-1500-id14327674.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-1500-id14327674.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2493,8 +2879,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "1500 Tradesmanin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "1500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 1500 ",
@@ -2510,13 +2898,16 @@
       "year": 2027,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3DJ2VG363160",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1ca38f3b6f3.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-3500-id14327672.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-3500-id14327672.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2525,14 +2916,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3DJ6VG363159",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Big Hornin Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a5401b01e18f.html",
       "source_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-3500-id14327673.html",
       "dealer_url": "https://www.gustafsonsdodge.com/new/inventory/2027-RAM-3500-id14327673.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2541,8 +2935,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "RAM",
-      "model": "3500 Big Hornin Williams Lake near Quesnel",
-      "condition": "new"
+      "model": "3500",
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 RAM 3500 ",
@@ -2558,7 +2954,9 @@
       "year": 2027,
       "make": "RAM",
       "model": "3500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Williams Lake near Quesnel",
@@ -2572,7 +2970,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Williams Lake near Quesnel",
-      "condition": "used"
+      "condition": "used",
+      "city": "Williams Lake",
+      "province": "BC"
     },
     {
       "name": "2027 Ram 2500in Williams Lake near Quesnel",
@@ -2586,7 +2986,9 @@
       "year": 2027,
       "make": "Ram",
       "model": "2500in Williams Lake near Quesnel",
-      "condition": "new"
+      "condition": "new",
+      "city": "Williams Lake",
+      "province": "BC"
     }
   ]
 }
