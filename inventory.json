@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-10-25T17:56:00",
+  "generated_at": "2026-10-26T01:08:29",
   "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -97,6 +97,14 @@
       "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3HL8TG329149",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/383d7a48adf9.html",
+      "condition": "new",
+      "price": 93280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C63R3HL2TG329146",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/2544b227b501.html",
       "condition": "new",
       "price": 93280.0,
       "price_currency": "CAD"
@@ -1191,17 +1199,6 @@
       "model": "3500",
       "condition": "new",
       "price": 93180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL2TG329146",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/2544b227b501.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 93280.0,
       "price_currency": "CAD"
     },
     {
