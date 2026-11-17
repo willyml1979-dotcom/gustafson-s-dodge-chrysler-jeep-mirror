@@ -7,7 +7,7 @@ Gustafson's Dodge Chrysler Jeep is a  dealership in Williams Lake. This site is 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/ and https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ (about 93 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/ and https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ (about 88 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/llms.txt

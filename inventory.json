@@ -1,10 +1,90 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-11-17T12:09:27",
-  "vehicle_count": 93,
+  "generated_at": "2026-11-17T16:33:22",
+  "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Jeep Patriot 2017 for salein Williams Lake near Quesnel",
+      "vin": "1C4NJRAB7HD125623",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c96d13ec897d.html",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2018 for salein Williams Lake near Quesnel",
+      "vin": "1C4BJWEG8JL904029",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/fca854384f3e.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2018 for salein Williams Lake near Quesnel",
+      "vin": "5XYPGDA37JG366205",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/48760ccdefce.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2019 for salein Williams Lake near Quesnel",
+      "vin": "1C4SDJETXKC558705",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/69700998787e.html",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Grand Caravan 2019 for salein Williams Lake near Quesnel",
+      "vin": "2C4RDGBG5KR719218",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/889aced7546a.html",
+      "condition": "used",
+      "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Grand Cherokee 2021 for salein Williams Lake near Quesnel",
+      "vin": "1C4RJFCT9MC711276",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/d18279f505c8.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2021 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3HL9MG602813",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5e2d0f094a10.html",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2021 for salein Williams Lake near Quesnel",
+      "vin": "1V2LR2CA7MC517107",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/f78b6ed8861f.html",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2022 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3SL3NG285962",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c24ed4c9c4c5.html",
+      "condition": "used",
+      "price": 74995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2025 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3SL7SG565976",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/9d22cdca61cb.html",
+      "condition": "used",
+      "price": 89995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Jeep Wrangler 2024 for salein Williams Lake near Quesnel",
       "vin": "1C4PJXEG6RW266997",
@@ -43,28 +123,6 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a300bbc4b211.html",
       "condition": "new",
       "price": 112515.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Tucson Limited AWD | Remote Start | Heated Seats | NAV | Sunroof |in Williams Lake near Quesnel",
-      "vin": "KM8JUCAG3EU875543",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/14ffee27face.html",
-      "year": 2014,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 13995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Hyundai Tucson ",
-      "vin": "KM8JUCAG3EU875543",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/887fdbc0533f.html",
-      "year": 2014,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 13995.0,
       "price_currency": "CAD"
     },
     {
@@ -123,39 +181,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Patriot ",
-      "vin": "1C4NJRAB7HD125623",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c96d13ec897d.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Patriot",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Jeep Renegade Trailhawk | My Sky Roof | Remote Start | Heated Seats | 4X4 Low | NAV |in Williams Lake near Quesnel",
-      "vin": "ZACCJBCB4HPG00996",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/9b33eeb66a63.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Renegade",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Jeep Renegade ",
-      "vin": "ZACCJBCB4HPG00996",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/57f1ebe5609d.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Renegade",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Wrangler Rubicon 4x4in Williams Lake near Quesnel",
       "vin": "1C4HJXFG5JW131226",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/3fdc579f6c3e.html",
@@ -178,56 +203,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4BJWEG8JL904029",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/fca854384f3e.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Kia Sorento LX AWD | Remote Start | Heated Seats |in Williams Lake near Quesnel",
       "vin": "5XYPGDA37JG366205",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/e143f5682897.html",
       "year": 2018,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Sorento ",
-      "vin": "5XYPGDA37JG366205",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/48760ccdefce.html",
-      "year": 2018,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Dodge Challenger SXT Plus | AWD | Cooling Seats | Remote Start | Heated Seats+Wheel |in Williams Lake near Quesnel",
-      "vin": "2C3CDZGG1KH592181",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/1763a9dfce44.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Dodge Challenger ",
-      "vin": "2C3CDZGG1KH592181",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5ba78f9ea09a.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Challenger",
       "condition": "used",
       "price": 19995.0,
       "price_currency": "CAD"
@@ -244,53 +225,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Dodge Durango ",
-      "vin": "1C4SDJETXKC558705",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/69700998787e.html",
+      "name": "2019 Dodge Grand Caravan Canada Value Packagein Williams Lake near Quesnel",
+      "vin": "2C4RDGBG5KR719218",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/7b367d8f3d06.html",
       "year": 2019,
       "make": "Dodge",
-      "model": "Durango",
+      "model": "Grand Caravan Canada Value Packagein Williams Lake near Quesnel",
       "condition": "used",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 Sport 4x4 Crew Cab 6'4\" Boxin Williams Lake near Quesnel",
-      "vin": "1C6SRFTT0KN876538",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5098487cc36f.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500 Sport 4x4 Crew Cab 6'4\" Boxin Williams Lake near Quesnel",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 RAM 1500 ",
-      "vin": "1C6SRFTT0KN876538",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c1d66a093369.html",
-      "year": 2019,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 34995.0,
+      "price": 14995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2021 Jeep Grand Cherokee High Altitude | Hemi V8 | Tow Pack | Full Load |in Williams Lake near Quesnel",
       "vin": "1C4RJFCT9MC711276",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/281a090460ec.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFCT9MC711276",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/d18279f505c8.html",
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
@@ -321,28 +269,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 1500 Classic Express 4x4in Williams Lake near Quesnel",
-      "vin": "3C6RR7KT2MG595911",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/e76c095019a5.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 1500 Classic ",
-      "vin": "3C6RR7KT2MG595911",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4093d0196749.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 RAM 3500 Laramie Mega Cab | Prep Pack | Sunroof | 360 Camera | Cooling Seats |in Williams Lake near Quesnel",
       "vin": "3C63R3ML7MG672283",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/005104c169b1.html",
@@ -350,18 +276,18 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 49995.0,
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 3500 ",
-      "vin": "3C63R3ML7MG672283",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5e2d0f094a10.html",
+      "name": "2021 RAM 3500 Big Horn | AISIN HO | 189L Fuel Tank | Deleted | Adaptive Cruise | LED's | AS-IS |in Williams Lake near Quesnel",
+      "vin": "3C63R3HL9MG602813",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/765e7aee2873.html",
       "year": 2021,
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 49995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -376,14 +302,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2LR2CA7MC517107",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/f78b6ed8861f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
+      "name": "2022 RAM 3500 Limited | AISIN HO | 5th Wheel Prep | Airbags | Power Boards | Low KMS |in Williams Lake near Quesnel",
+      "vin": "3C63R3SL3NG285962",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/adcc7fd32d72.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "3500",
       "condition": "used",
-      "price": 32995.0,
+      "price": 74995.0,
       "price_currency": "CAD"
     },
     {
@@ -406,28 +332,6 @@
       "model": "Hornet",
       "condition": "used",
       "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Tucson Essential AWD | Remote Start |in Williams Lake near Quesnel",
-      "vin": "KM8JBCAE4PU188918",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/55c5bccfb44a.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Tucson ",
-      "vin": "KM8JBCAE4PU188918",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/b0c50406a30f.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -496,17 +400,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 Limited Night Edition 8' Box | HO Aisin | 189L Tank | Prep Pack | Auto-Level | Fully Loaded |in Williams Lake near Quesnel",
-      "vin": "3C63R3RL9RG295066",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c342280e6bf5.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 86995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 3500 Big Horn | 8' Box | Remote Start | 189L Fuel Tank | 6 Passenger |in Williams Lake near Quesnel",
       "vin": "3C63R3HL6RG409901",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/533d872f1340.html",
@@ -529,6 +422,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 RAM 3500 Limited AISIN HO Dually | Auto-Level | Prep Pack | 189L Fuel Tank | Sunroof | Power Boards |in Williams Lake near Quesnel",
+      "vin": "3C63RRRL9RG295152",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/91e7fe20652f.html",
+      "year": 2024,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 84995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 RAM 3500 ",
       "vin": "3C63R3CL2RG297444",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/a2a507e2d1ab.html",
@@ -537,6 +441,17 @@
       "model": "3500",
       "condition": "used",
       "price": 66995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 RAM 3500 Limited | Night Edition | Auto-Level | Prep Pack | Sunroof | Power Boards |in Williams Lake near Quesnel",
+      "vin": "3C63R3SL7SG565976",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/90ba7bc44810.html",
+      "year": 2025,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 89995.0,
       "price_currency": "CAD"
     },
     {
