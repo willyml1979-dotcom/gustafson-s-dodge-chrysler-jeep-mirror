@@ -1,200 +1,48 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-10-26T11:08:06",
-  "vehicle_count": 138,
+  "generated_at": "2026-11-17T12:09:27",
+  "vehicle_count": 93,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Jeep Grand Cherokee Altitude | Sunroof | Tow Package | TURBO | NAV | Power Gate | 0%in Williams Lake near Quesnel",
-      "vin": "1C4RJHAR2TC236202",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/bad58ac09725.html",
+      "name": "Jeep Wrangler 2024 for salein Williams Lake near Quesnel",
+      "vin": "1C4PJXEG6RW266997",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/59e3fa3a7f70.html",
       "condition": "new",
-      "price": 65380.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Grand Cherokee Limitedin Williams Lake near Quesnel",
-      "vin": "1C4RJHAR8TC313624",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/548bd36c7c58.html",
-      "condition": "new",
-      "price": 70280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Grand Cherokee Summitin Williams Lake near Quesnel",
-      "vin": "1C4RJHAR1T8609877",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6e272efa9e2a.html",
-      "condition": "new",
-      "price": 88475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Grand Cherokee Laredo X | 3.6L V6 | Remote Start | Sunroof | Heated Seats+Wheel |in Williams Lake near Quesnel",
-      "vin": "1C4RJHAG6TC317024",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/9fe7f62c0bfc.html",
-      "condition": "new",
-      "price": 62880.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Willysin Williams Lake near Quesnel",
-      "vin": "1C4PJXDG6TW167928",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c3174ac66b7f.html",
-      "condition": "new",
-      "price": 59745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Expressin Williams Lake near Quesnel",
-      "vin": "1C6RRFCG9TN388966",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/09c2d2b94861.html",
-      "condition": "new",
-      "price": 59140.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Express Off Road Package | 6'4\" Box | Hurricane | Remote Start | Rear Locker |in Williams Lake near Quesnel",
-      "vin": "1C6SRFNP1TN370881",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/828d410e9518.html",
-      "condition": "new",
-      "price": 66995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 1500 Rebel HEMIin Williams Lake near Quesnel",
-      "vin": "1C6SRFLT7TN390245",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/bde3c269f76f.html",
-      "condition": "new",
-      "price": 81770.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
-      "vin": "3C63R3GL5TG186226",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f3fa1b5a52b0.html",
-      "condition": "new",
-      "price": 85900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
-      "vin": "3C63R3GLXTG186223",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/7f60f2f45112.html",
-      "condition": "new",
-      "price": 81995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3DL2TG186267",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ebb097fb823c.html",
-      "condition": "new",
-      "price": 93300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL8TG329149",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/383d7a48adf9.html",
-      "condition": "new",
-      "price": 93280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL6TG329148",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/da9cba10a504.html",
-      "condition": "new",
-      "price": 93180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL2TG329146",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/2544b227b501.html",
-      "condition": "new",
-      "price": 93280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Horn | 8' Box | 189L Tank | Headache Rack | Levelling Kit | BUSH READY!! |in Williams Lake near Quesnel",
-      "vin": "3C63R3HL1TG329123",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6df91c260650.html",
+      "name": "RAM 3500 2024 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3SL7RG242005",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fd93fb8df6de.html",
       "condition": "new",
       "price": 93995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL3TG329124",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5d9a5372f314.html",
+      "name": "Jeep Cherokee 2026 for salein Williams Lake near Quesnel",
+      "vin": "3C4PJMA28TT236826",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4435dd4bf106.html",
       "condition": "new",
-      "price": 92585.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 RAM 3500 Big Horn | 6.4L Gas |in Williams Lake near Quesnel",
-      "vin": "3C63R3HJXTG308107",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/0cc8e7a5bf35.html",
+      "name": "Dodge Durango 2027 for salein Williams Lake near Quesnel",
+      "vin": "1C4SDJCT5VC581753",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5e41c9e67748.html",
       "condition": "new",
-      "price": 81495.0,
+      "price": 80225.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 RAM 3500 Big Horn | 6.4L Gas |in Williams Lake near Quesnel",
-      "vin": "3C63R3HJ8TG308106",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1a40b804d858.html",
+      "name": "RAM 2500 2027 for salein Williams Lake near Quesnel",
+      "vin": "3C63R5EL0VG416482",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a300bbc4b211.html",
       "condition": "new",
-      "price": 81495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL8TG350731",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d95f2cc6f00f.html",
-      "condition": "new",
-      "price": 91490.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 RAM 1500 Express 0% Financingin Williams Lake near Quesnel",
-      "vin": "1C6SRFNP2VN568632",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/b78b04e5ad87.html",
-      "condition": "new",
-      "price": 72285.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 RAM 1500 Express Crew | Remote Start | 0% Financing |in Williams Lake near Quesnel",
-      "vin": "3C6RRFGG3V4502242",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/8edb8e85cec4.html",
-      "condition": "new",
-      "price": 68645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 RAM 1500 Express Crew | Remote Start | 0% Financing |in Williams Lake near Quesnel",
-      "vin": "3C6RRFGG5V4502243",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/17bc86c2bfed.html",
-      "condition": "new",
-      "price": 69240.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3DJ2VG363160",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1ca38f3b6f3.html",
-      "condition": "new",
-      "price": 87360.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3DJ6VG363159",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a5401b01e18f.html",
-      "condition": "new",
-      "price": 87360.0,
+      "price": 112515.0,
       "price_currency": "CAD"
     },
     {
@@ -242,17 +90,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 RAM 2500 ",
-      "vin": "3C6UR5JL0FG614393",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/3447637d82d7.html",
-      "year": 2015,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "new",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016 Kia Sorento SX Turbo AWD | Sunroof | Cooling Seats | NAV |in Williams Lake near Quesnel",
       "vin": "5XYPKDA11GG160089",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4c24da1129a5.html",
@@ -271,17 +108,6 @@
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Kia Sorento ",
-      "vin": "5XYPKDA11GG160089",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/b96ab18acccb.html",
-      "year": 2016,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "new",
       "price": 15995.0,
       "price_currency": "CAD"
     },
@@ -330,17 +156,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Patriot ",
-      "vin": "1C4NJRAB7HD125623",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c96d13ec897d.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Patriot",
-      "condition": "new",
-      "price": 14995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Wrangler Rubicon 4x4in Williams Lake near Quesnel",
       "vin": "1C4HJXFG5JW131226",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/3fdc579f6c3e.html",
@@ -370,17 +185,6 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Jeep Wrangler ",
-      "vin": "1C4BJWEG8JL904029",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fca854384f3e.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
       "price": 24995.0,
       "price_currency": "CAD"
     },
@@ -451,28 +255,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Dodge Challenger ",
-      "vin": "2C3CDZGG1KH592181",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5ba78f9ea09a.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "new",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Dodge Durango ",
-      "vin": "1C4SDJETXKC558705",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/69700998787e.html",
-      "year": 2019,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "new",
-      "price": 23995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 RAM 1500 Sport 4x4 Crew Cab 6'4\" Boxin Williams Lake near Quesnel",
       "vin": "1C6SRFTT0KN876538",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5098487cc36f.html",
@@ -513,17 +295,6 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFCT9MC711276",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d18279f505c8.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
       "price": 36995.0,
       "price_currency": "CAD"
     },
@@ -594,28 +365,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 RAM 1500 Classic ",
-      "vin": "3C6RR7KT2MG595911",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4093d0196749.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "new",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 RAM 3500 ",
-      "vin": "3C63R3ML7MG672283",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/5e2d0f094a10.html",
-      "year": 2021,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 49995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Volkswagen Atlas Comfortline 3.6L V6 | Heated Seats+Wheel | Remote Start | Tow Hitch | 7 Passenger |in Williams Lake near Quesnel",
       "vin": "1V2LR2CA7MC517107",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/6eb46df5b641.html",
@@ -638,17 +387,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Atlas ",
-      "vin": "1V2LR2CA7MC517107",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f78b6ed8861f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new",
-      "price": 32995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Dodge Hornet GT Blacktop | AWD | Remote Start | Heated Seats+Wheel |in Williams Lake near Quesnel",
       "vin": "ZACNDFAN7P3A02668",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4c98e2ec6aa6.html",
@@ -667,17 +405,6 @@
       "make": "Dodge",
       "model": "Hornet",
       "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Dodge Hornet ",
-      "vin": "ZACNDFAN7P3A02668",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/34f5084d493f.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Hornet",
-      "condition": "new",
       "price": 24995.0,
       "price_currency": "CAD"
     },
@@ -725,36 +452,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPUCAFOP7051314",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/49b307bac6ea.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler Saharain Williams Lake near Quesnel",
+      "name": "New 2024 Jeep Wrangler Saharain Williams Lake near Quesnel",
       "vin": "1C4PJXEG6RW266997",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fb401b8ecca9.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "new",
-      "price": 61995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Wrangler ",
-      "vin": "1C4PJXEG6RW266997",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/59e3fa3a7f70.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 61995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
@@ -835,261 +540,84 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 3500 ",
-      "vin": "3C63R3SL7RG242005",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fd93fb8df6de.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 93995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 3500 ",
-      "vin": "3C63R3CL2RG297444",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a2a507e2d1ab.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 66995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Grand Caravanin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/38bd765cf880.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 48495.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Pacificain Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/16d7e3104c76.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 52195.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Pacifica Hybridin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c9e056c6ccde.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 62290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Chargerin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/533d1b269a79.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Chargerin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 58890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durangoin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1bd1a1c3ab7e.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durangoin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 54890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMA28TT236826",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4ba7cbcb3654.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 42390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass ",
-      "vin": "3C4NJDANXTT156249",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/47730f664be7.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 34890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Gladiatorin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ef818d28f46b.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 52890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee ",
-      "vin": "1C4RJHAR2TC236202",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/8f113e39c741.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 65380.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a70d7d389e78.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 60890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Wagoneerin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d4f6485d6bf2.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 90085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/52999fdfc23a.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Grand Wagoneer",
-      "condition": "new",
-      "price": 93585.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Reconin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/443f6947bad0.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Reconin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 87790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXDG6TW167928",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/14db7e66eeeb.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 59745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB28TT222567",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4aa7d6313792.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 48080.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB29TT227423",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/639861c56542.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 48180.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB2XTT256364",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6be1257bc5d6.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 48180.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
       "vin": "3C4PJMB22TT249795",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/143dfb189f71.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 56380.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Laredoin Williams Lake near Quesnel",
       "vin": "3C4PJMB28TT256363",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d416e4039418.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 47685.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Limitedin Williams Lake near Quesnel",
       "vin": "3C4PJMB24TT249796",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f08f264d87eb.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 56380.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Basein Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Cherokee Basein Williams Lake near Quesnel",
       "vin": "3C4PJMA28TT236826",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/17a03e954b5f.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "new",
-      "price": 42390.0,
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee ",
-      "vin": "3C4PJMA28TT236826",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4435dd4bf106.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 42390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Compass Sport 4x4 | Heated Seats |in Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Compass Sport 4x4 | Heated Seats |in Williams Lake near Quesnel",
       "vin": "3C4NJDANXTT156249",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/11b119e5eeb1.html",
       "year": 2026,
@@ -1100,7 +628,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Compass Northin Williams Lake near Quesnel",
       "vin": "3C4NJDBN6TT212718",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/4e63e83f1c63.html",
       "year": 2026,
@@ -1111,7 +639,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Compass Northin Williams Lake near Quesnel",
+      "name": "New 2026 Jeep Compass Northin Williams Lake near Quesnel",
       "vin": "3C4NJDBN4TT212717",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/196d9b36d1e8.html",
       "year": 2026,
@@ -1133,6 +661,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Grand Cherokee Altitude | Sunroof | Tow Package | TURBO | NAV | Power Gate | 0%in Williams Lake near Quesnel",
+      "vin": "1C4RJHAR2TC236202",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/bad58ac09725.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 65380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Grand Cherokee Limitedin Williams Lake near Quesnel",
+      "vin": "1C4RJHAR8TC313624",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/548bd36c7c58.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 70280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Grand Cherokee Summitin Williams Lake near Quesnel",
+      "vin": "1C4RJHAR1T8609877",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6e272efa9e2a.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 88475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Grand Cherokee Laredo X | 3.6L V6 | Remote Start | Sunroof | Heated Seats+Wheel |in Williams Lake near Quesnel",
+      "vin": "1C4RJHAG6TC317024",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/9fe7f62c0bfc.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 62880.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Grand Cherokee ",
       "vin": "1C4RJHAG6TC317024",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c0fa251229b5.html",
@@ -1141,6 +713,17 @@
       "model": "Grand Cherokee",
       "condition": "new",
       "price": 62880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Willysin Williams Lake near Quesnel",
+      "vin": "1C4PJXDG6TW167928",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c3174ac66b7f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 59745.0,
       "price_currency": "CAD"
     },
     {
@@ -1155,25 +738,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 ",
+      "name": "New 2026 RAM 1500 Expressin Williams Lake near Quesnel",
       "vin": "1C6RRFCG9TN388966",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/9ddefb9581db.html",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/09c2d2b94861.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
       "price": 59140.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 ",
-      "vin": "3C63R3DL2TG186267",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1d6af368d38f.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 93300.0,
       "price_currency": "CAD"
     },
     {
@@ -1188,14 +760,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
-      "vin": "3C63R3HL0TG329145",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/be14a1f63efb.html",
+      "name": "New 2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
+      "vin": "3C63R3GL5TG186226",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f3fa1b5a52b0.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 93180.0,
+      "price": 85900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 3500 Tradesmanin Williams Lake near Quesnel",
+      "vin": "3C63R3GLXTG186223",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/7f60f2f45112.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 81995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 3500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C63R3HL8TG350731",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/d95f2cc6f00f.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 91490.0,
       "price_currency": "CAD"
     },
     {
@@ -1210,17 +804,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 5500 ",
-      "vin": "3C7WRNFL2TG314296",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/744dcd3c4d71.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "5500",
-      "condition": "new",
-      "price": 117390.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 5500 Chassis ",
       "vin": "3C7WRNFL5TG307987",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/ac75748dfe6b.html",
@@ -1232,139 +815,53 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ram 2500in Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c515f150c8dc.html",
-      "year": 2026,
-      "make": "Ram",
-      "model": "2500in Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 60740.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Grand Caravanin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/36b83a63207e.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Grand Caravanin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 50995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Chrysler Pacificain Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/b7fb5e137042.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacificain Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 52995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Dodge Chargerin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/e9edafbfe057.html",
+      "name": "New 2027 Dodge Durango Gt Hemi V8 Premiumin Williams Lake near Quesnel",
+      "vin": "1C4SDJCT5VC581753",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1919916fadfa.html",
       "year": 2027,
       "make": "Dodge",
-      "model": "Chargerin Williams Lake near Quesnel",
+      "model": "Durango Gt Hemi V8 Premiumin Williams Lake near Quesnel",
       "condition": "new",
-      "price": 62390.0,
+      "price": 80225.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Dodge Durangoin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/2a8149465035.html",
+      "name": "New 2027 Dodge Durango GT Premium HEMI V8in Williams Lake near Quesnel",
+      "vin": "1C4SDJCT7VC581754",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1675fef997eb.html",
       "year": 2027,
       "make": "Dodge",
-      "model": "Durangoin Williams Lake near Quesnel",
+      "model": "Durango GT Premium HEMI V8in Williams Lake near Quesnel",
       "condition": "new",
-      "price": 62490.0,
+      "price": 80325.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Cherokeein Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/3a01a3d49ea8.html",
+      "name": "New 2027 RAM 1500 Express 0% Financingin Williams Lake near Quesnel",
+      "vin": "1C6SRFNP2VN568632",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/b78b04e5ad87.html",
       "year": 2027,
-      "make": "Jeep",
-      "model": "Cherokeein Williams Lake near Quesnel",
+      "make": "RAM",
+      "model": "1500 Express 0% Financingin Williams Lake near Quesnel",
       "condition": "new",
-      "price": 42490.0,
+      "price": 72285.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Compassin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/65700104a7ba.html",
+      "name": "New 2027 RAM 1500 Express Crew | Remote Start | 0% Financing |in Williams Lake near Quesnel",
+      "vin": "3C6RRFGG3V4502242",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/8edb8e85cec4.html",
       "year": 2027,
-      "make": "Jeep",
-      "model": "Compassin Williams Lake near Quesnel",
+      "make": "RAM",
+      "model": "1500",
       "condition": "new",
-      "price": 37095.0,
+      "price": 68645.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Gladiatorin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6f8ec7e8618e.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Gladiatorin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 54990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Grand Cherokeein Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/61711b57afbe.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Cherokeein Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 63290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Grand Cherokee Lin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c3021ff8e147.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 65790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Grand Wagoneerin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/935fd5057880.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Wagoneerin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 93890.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Grand Wagoneer Lin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/228725f31cfc.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Grand Wagoneer",
-      "condition": "new",
-      "price": 96390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Jeep Wranglerin Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/3badf1fe8919.html",
-      "year": 2027,
-      "make": "Jeep",
-      "model": "Wranglerin Williams Lake near Quesnel",
-      "condition": "new",
-      "price": 46595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 ",
+      "name": "New 2027 RAM 1500 Express Crew | Remote Start | 0% Financing |in Williams Lake near Quesnel",
       "vin": "3C6RRFGG5V4502243",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/c287487c938d.html",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/17bc86c2bfed.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
@@ -1373,25 +870,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3CL3VG416418",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/65c5783b6fa4.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 97265.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 1500 Big Horn | HEMI | Back Country Package |in Williams Lake near Quesnel",
+      "name": "New 2027 RAM 1500 Big Horn | HEMI | Back Country Package |in Williams Lake near Quesnel",
       "vin": "1C6SRFFT1VN581884",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f53cbf207462.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 86760.0,
+      "price": 82760.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C6SRFFP7V4514994",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/19a39f25d616.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 72815.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C6SRFFP9V4514995",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a32e047e5671.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 72815.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Big Horn | HEMI | Back Country Edition | Dual Panoramic Sunroof |in Williams Lake near Quesnel",
+      "vin": "1C6SRFFT8VN580540",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f4968ca17e2b.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 86005.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C6SRFFP3V4514992",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/7ee18b8408ea.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 72070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Tradesmanin Williams Lake near Quesnel",
+      "vin": "3C6SRFGP3V4520595",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f7d9773164b8.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 72320.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 1500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C6SRFFP5V4514993",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/fd8b226cd5ce.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 72715.0,
       "price_currency": "CAD"
     },
     {
@@ -1406,9 +958,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 ",
+      "name": "New 2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3DJ2VG363160",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1bf47e06de5.html",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1ca38f3b6f3.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
@@ -1417,13 +969,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ram 2500in Williams Lake near Quesnel",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/1be7d84d6630.html",
+      "name": "New 2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
+      "vin": "3C63R3DJ6VG363159",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a5401b01e18f.html",
       "year": 2027,
-      "make": "Ram",
-      "model": "2500in Williams Lake near Quesnel",
+      "make": "RAM",
+      "model": "3500",
       "condition": "new",
-      "price": 68840.0,
+      "price": 87360.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 3500 Tradesmanin Williams Lake near Quesnel",
+      "vin": "3C63R3CL3VG416418",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f502b6f8bf37.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 90765.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 RAM 3500 Tradesmanin Williams Lake near Quesnel",
+      "vin": "3C63R3CL5VG416419",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/6a031dcf2ae8.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 90765.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 3500 ",
+      "vin": "3C63R3DJ2VG363160",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1bf47e06de5.html",
+      "year": 2027,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 87360.0,
       "price_currency": "CAD"
     }
   ]
