@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-11-18T11:25:06",
+  "generated_at": "2026-11-18T12:42:05",
   "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -267,7 +267,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Patriot North Edition 4X4 | Remote Start | Heated Seats | Sirius Radio |in Williams Lake near Quesnel",
+      "name": "2017 Jeep Patriot North Edition 4X4 | Remote Start | Heated Seats | Sirius Radio | WINTER TIRES |in Williams Lake near Quesnel",
       "vin": "1C4NJRAB7HD125623",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/79d66b371603.html",
       "year": 2017,
