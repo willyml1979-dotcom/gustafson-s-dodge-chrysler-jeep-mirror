@@ -1,10 +1,26 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-11-18T02:38:45",
+  "generated_at": "2026-11-18T03:57:04",
   "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "RAM 2500 2015 for salein Williams Lake near Quesnel",
+      "vin": "3C6UR5JL0FG614393",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/3447637d82d7.html",
+      "condition": "used",
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2016 for salein Williams Lake near Quesnel",
+      "vin": "5XYPKDA11GG160089",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/b96ab18acccb.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Jeep Patriot 2017 for salein Williams Lake near Quesnel",
       "vin": "1C4NJRAB7HD125623",
@@ -54,6 +70,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Seltos 2021 for salein Williams Lake near Quesnel",
+      "vin": "KNDETCA24M7144890",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/21eeef380dbd.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 3500 2021 for salein Williams Lake near Quesnel",
       "vin": "3C63R3HL9MG602813",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/5e2d0f094a10.html",
@@ -75,6 +99,37 @@
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/c24ed4c9c4c5.html",
       "condition": "used",
       "price": 74995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Hornet 2023 for salein Williams Lake near Quesnel",
+      "vin": "ZACNDFAN7P3A02668",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/34f5084d493f.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sportage 2023 for salein Williams Lake near Quesnel",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/49b307bac6ea.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kia Sorento 2024 for salein Williams Lake near Quesnel",
+      "vin": "5XYRKDJF5RG275771",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/18858b1f1677.html",
+      "condition": "used",
+      "price": 35995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2024 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3HL6RG409901",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/a2a507e2d1ab.html",
+      "condition": "used",
+      "price": 63995.0,
       "price_currency": "CAD"
     },
     {
@@ -181,35 +236,13 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 34995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 RAM 2500 ",
-      "vin": "3C6UR5JL0FG614393",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/3447637d82d7.html",
-      "year": 2015,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Kia Sorento SX Turbo AWD | Sunroof | Cooling Seats | NAV |in Williams Lake near Quesnel",
+      "name": "2016 Kia Sorento SX Turbo AWD | Sunroof | Cooling Seats | NAV | Winter Tires |in Williams Lake near Quesnel",
       "vin": "5XYPKDA11GG160089",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/4c24da1129a5.html",
-      "year": 2016,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 15995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Kia Sorento ",
-      "vin": "5XYPKDA11GG160089",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/b96ab18acccb.html",
       "year": 2016,
       "make": "Kia",
       "model": "Sorento",
@@ -306,17 +339,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Seltos ",
-      "vin": "KNDETCA24M7144890",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/21eeef380dbd.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 RAM 3500 Laramie Mega Cab | Prep Pack | Sunroof | 360 Camera | Cooling Seats |in Williams Lake near Quesnel",
       "vin": "3C63R3ML7MG672283",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/005104c169b1.html",
@@ -372,30 +394,8 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Dodge Hornet ",
-      "vin": "ZACNDFAN7P3A02668",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/34f5084d493f.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Hornet",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Sportage X-Line | AWD | Remote Start | Heated Seats+Wheel | Leather |in Williams Lake near Quesnel",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/408f1734e3e1.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage ",
-      "vin": "KNDPUCAFOP7051314",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/49b307bac6ea.html",
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
@@ -426,17 +426,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Sorento ",
-      "vin": "5XYRKDJF5RG275771",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/18858b1f1677.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 3500 Tradesman 4x4 Crew Cab 6'4\" Box | WARRANTY |in Williams Lake near Quesnel",
       "vin": "3C63R3CL2RG297444",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/0fb956cad9be.html",
@@ -444,7 +433,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 66995.0,
+      "price": 64995.0,
       "price_currency": "CAD"
     },
     {
@@ -455,7 +444,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 67995.0,
+      "price": 63995.0,
       "price_currency": "CAD"
     },
     {
@@ -478,17 +467,6 @@
       "model": "3500",
       "condition": "used",
       "price": 84995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 3500 ",
-      "vin": "3C63R3CL2RG297444",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/used/a2a507e2d1ab.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 66995.0,
       "price_currency": "CAD"
     },
     {
