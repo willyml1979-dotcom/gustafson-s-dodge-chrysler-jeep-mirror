@@ -1,6 +1,6 @@
 {
   "dealership": "Gustafson S Dodge Chrysler Jeep",
-  "generated_at": "2026-11-18T03:57:04",
+  "generated_at": "2026-11-18T11:25:06",
   "vehicle_count": 88,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -221,11 +221,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2027 for salein Williams Lake near Quesnel",
+      "vin": "3C6RRFGG3V4502242",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f83ec5e5354e.html",
+      "condition": "new",
+      "price": 64995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "RAM 2500 2027 for salein Williams Lake near Quesnel",
       "vin": "3C63R5EL0VG416482",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/a300bbc4b211.html",
       "condition": "new",
       "price": 112515.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Williams Lake near Quesnel",
+      "vin": "3C63R3DJ2VG363160",
+      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1bf47e06de5.html",
+      "condition": "new",
+      "price": 87360.0,
       "price_currency": "CAD"
     },
     {
@@ -719,7 +735,7 @@
       "make": "RAM",
       "model": "1500 Express 0% Financingin Williams Lake near Quesnel",
       "condition": "new",
-      "price": 72285.0,
+      "price": 69285.0,
       "price_currency": "CAD"
     },
     {
@@ -730,7 +746,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 68645.0,
+      "price": 64995.0,
       "price_currency": "CAD"
     },
     {
@@ -741,7 +757,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 69240.0,
+      "price": 66240.0,
       "price_currency": "CAD"
     },
     {
@@ -822,17 +838,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 ",
-      "vin": "3C6RRFGG3V4502242",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f83ec5e5354e.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 68645.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 RAM 3500 Big Hornin Williams Lake near Quesnel",
       "vin": "3C63R3DJ2VG363160",
       "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1ca38f3b6f3.html",
@@ -874,17 +879,6 @@
       "model": "3500",
       "condition": "new",
       "price": 90765.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3DJ2VG363160",
-      "url": "https://willyml1979-dotcom.github.io/gustafson-s-dodge-chrysler-jeep-mirror/new/f1bf47e06de5.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 87360.0,
       "price_currency": "CAD"
     }
   ]
